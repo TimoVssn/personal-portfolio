@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/TimoVssn/personal-portfolio">
-    <img src="images/logo_main.png" alt="Logo" width="80" height="80">
+    <img src="images/Logo_white.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Personal portfolio</h3>
